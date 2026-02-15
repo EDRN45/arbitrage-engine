@@ -1,0 +1,4 @@
+playwright
+requests
+fake-useragent
+python-dotenv
